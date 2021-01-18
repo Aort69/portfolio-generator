@@ -1,1 +1,1 @@
-# portfolio-generator
+# io.portfolio-generator
